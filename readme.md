@@ -1,13 +1,22 @@
-# ENSE 271 Final Project : Group 3 : EcoNEXUS
-## Members
-### > Isabel
-### > Nyabijek
-### > Quinn
-### > Simran
-### > Eesh
+# ENSE 271 Final Project: EcoNEXUS - Group 3
 
+Welcome to the GitHub repository for the ENSE 271 final project, EcoNEXUS, by Group C. This project aims to foster awareness and involvement within the Sustainable Development Goals (SDGs) in Regina, Saskatchewan, through a comprehensive and informative website.
 
-## Summarized project background & business need/opportunity:
-Our project's main objective is to raise awareness and involvement in the Sustainable Development Goals (SDGs) in Regina, Saskatchewan. We plan to achieve this by creating a comprehensive website that educates the local community about the most pressing issues that require change. This website will also serve as a resource for potential residents evaluating the city. Additionally, we aim to develop a specific component that will focus on SDG mapping for Regina. This component will target officials and professionals capable of using the data for actionable change. At the same time, it will provide the general public with insights into community progress, volunteer opportunities, and resources for activ involvement in achieving these goals.
+## Team Members
 
+- Simran
+- Isabel
+- Nyabijek
+- Quinn
+- Eesh
 
+## Project Background & Objective
+
+Our project centers around the crucial need to engage the local community of Regina, Saskatchewan, in the Sustainable Development Goals (SDGs). The primary objective is to cultivate a platform that educates, informs, and motivates residents and potential newcomers about the significant challenges that need attention and action. 
+
+By developing a website that not only serves as an educational tool but also as a hub for active involvement, we aim to:
+
+- **Educate** the community about pressing issues.
+- **Encourage** participation and involvement in initiatives that support the SDGs.
+- **Provide** resources for residents and potential residents evaluating the city.
+- **Develop** a specific SDG mapping component tailored for Regina to aid officials and professionals in making informed decisions and to offer the general public insights into community progress.
