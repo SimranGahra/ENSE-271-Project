@@ -1,6 +1,6 @@
-# ENSE 271 Final Project: EcoNEXUS - Group 3
+# ENSE 271 Final Project: SustainRegina - Group 3
 
-Welcome to the GitHub repository for the ENSE 271 final project, EcoNEXUS, by Group C. This project aims to foster awareness and involvement within the Sustainable Development Goals (SDGs) in Regina, Saskatchewan, through a comprehensive and informative website.
+Welcome to the GitHub repository for the ENSE 271 final project, SustainRegina, by Group C. This project aims to foster awareness and involvement within the Sustainable Development Goals (SDGs) in Regina, Saskatchewan, through a comprehensive and informative website.
 
 ## Team Members
 
