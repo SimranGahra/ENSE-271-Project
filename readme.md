@@ -1,22 +1,32 @@
-# ENSE 271 Final Project: SustainRegina - Group 3
+# **Sustain Regina**
 
-Welcome to the GitHub repository for the ENSE 271 final project, SustainRegina, by Group C. This project aims to foster awareness and involvement within the Sustainable Development Goals (SDGs) in Regina, Saskatchewan, through a comprehensive and informative website.
+Welcome to the GitHub repository for **Sustain Regina**! This project is aims to fostering awareness, education, and active participation in achieving the **Sustainable Development Goals (SDGs)** within the community of Regina, Saskatchewan.
 
-## Team Members
+---
 
-- Simran
-- Isabel
-- Nyabijek
-- Quinn
-- Eesh
+## **About the Project**
 
-## Project Background & Objective
+### **Background**
 
-Our project centers around the crucial need to engage the local community of Regina, Saskatchewan, in the Sustainable Development Goals (SDGs). The primary objective is to cultivate a platform that educates, informs, and motivates residents and potential newcomers about the significant challenges that need attention and action. 
+Regina faces numerous challenges tied to sustainability, ranging from environmental concerns to social and economic disparities. The **Sustainable Development Goals (SDGs)** serve as a global framework to address these issues, yet local awareness and engagement remain limited. This project aims to bridge that gap by creating a dynamic and informative website tailored to Regina's unique needs and challenges.
 
-By developing a website that not only serves as an educational tool but also as a hub for active involvement, we aim to:
+### **Objective**
 
-- **Educate** the community about pressing issues.
-- **Encourage** participation and involvement in initiatives that support the SDGs.
-- **Provide** resources for residents and potential residents evaluating the city.
-- **Develop** a specific SDG mapping component tailored for Regina to aid officials and professionals in making informed decisions and to offer the general public insights into community progress.
+The primary objective of this project is to create a centralized platform that:
+
+1. **Educates**: Raise awareness about the SDGs and their relevance to Regina.
+2. **Inspires Action**: Motivate residents to engage in local initiatives aligned with SDGs.
+3. **Supports Decision-Making**: Provide resources for policymakers, professionals, and community leaders to make informed decisions.
+4. **Promotes Transparency**: Offer an interactive SDG mapping tool for tracking progress and highlighting areas needing improvement.
+
+---
+
+## **Contributors**
+
+- **Simran**
+- **Isabel**
+- **Nyabijek**
+- **Quinn**
+- **Eesh**
+
+---
